@@ -10,7 +10,15 @@ display: flex;
 justify-content: space-evenly;}
 main{
 background-color: blue;
-height: 80vh;}
+height: 80vh;
+display: flex;
+}
 footer{
 background-color: blueviolet;
 height: 10vh;}
+article{
+
+border: 1px solid red;
+background-color: blue;
+width: 25%;
+text-align: center;}
